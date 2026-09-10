@@ -1,0 +1,15 @@
+print("Diario de un Astronauta")
+print("")
+print("Fecha: 2024-01-10")
+print("")
+print("Hoy experimentamos con el cultivo de plantas en microgravedad.")
+print("")
+print("Mensaje personal: !Es increible ver como crecen las lecuhgas aqui arriba¡")
+print("")
+print("Fecha: 2024-01-11")
+print("")
+print("Realizamos una caminata espacial para preparar un panel solar.")
+print("")
+print("Mensaje personal: Flotar en el especio nunca deja de asombrarme.")
+
+
